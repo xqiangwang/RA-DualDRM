@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the accompanying paper."
+type: software
+title: "RA-DualDRM research code"
+authors:
+  - family-names: Wang
+    given-names: Xiaoqiang
+  - family-names: Sheng
+    given-names: Mao
+  - family-names: Li
+    given-names: Peichao
+  - family-names: Wang
+    given-names: Changji
+  - family-names: Lu
+    given-names: Detang
+preferred-citation:
+  type: article
+  title: "RA-DualDRM: A physics-adapted dual-network Deep Ritz method with adaptive mesh integration for phase-field crack propagation analysis"
+  authors:
+    - family-names: Wang
+      given-names: Xiaoqiang
+    - family-names: Sheng
+      given-names: Mao
+    - family-names: Li
+      given-names: Peichao
+    - family-names: Wang
+      given-names: Changji
+    - family-names: Lu
+      given-names: Detang
+  journal: Engineering Fracture Mechanics
+  year: 2026
+  doi: 10.1016/j.engfracmech.2026.112573
+  url: "https://www.sciencedirect.com/science/article/pii/S0013794426007356"
